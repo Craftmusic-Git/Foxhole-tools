@@ -1,0 +1,6 @@
+export enum CannonTypeEnum {
+    WARDEN_120_MM = "WARDEN_120_MM",
+    COLONIAL_120_MM = "COLONIAL_120_MM",
+    WARDEN_150_MM = "WARDEN_150_MM",
+    COLONIAL_150_MM = "COLONIAL_150_MM",
+}
